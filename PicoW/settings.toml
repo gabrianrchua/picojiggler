@@ -1,0 +1,3 @@
+# Settings for Pico W
+WIFI_SSID="mywifi"
+WIFI_PASS="password"
